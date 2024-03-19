@@ -1,0 +1,8 @@
+" $HOME/vimfiles --WIN
+" $HOME/.vim --Linux
+
+source $HOME/vimfiles/init/plug.vimrc      " plugin loader
+source $HOME/vimfiles/init/keys.vimrc    " leader key settings
+source $HOME/vimfiles/init/functions.vimrc " custom functions
+source $HOME/vimfiles/init/plugins.vimrc   " plugin specific settings
+source $HOME/vimfiles/init/general.vimrc   " general settings
